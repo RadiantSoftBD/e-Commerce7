@@ -167,6 +167,12 @@ figure {
 img {
   vertical-align: middle;
   border-style: none; }
+  .logoimg{
+    width: 10%;
+  }
+  .logoimg2{
+     width: 30%
+  }
 
 svg {
   overflow: hidden;
